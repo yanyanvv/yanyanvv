@@ -1,14 +1,14 @@
 # Yanyan Wang
 
-I work on AI strategy and write about emerging technology, business, and society.
+Yanyan helps businesses and people use AI more effectively. She also writes FutureTech with Yanyan, a newsletter covering the business of AI, including the models, chips, and data centers.
+
+## Blogs
+
+- [Website](https://futuretechwithyanyan.com/)
+- [LinkedIn newsletter: https://www.linkedin.com/newsletters/futuretech-with-yanyan-6908907495293632512/)
+- [GitHub](https://github.com/yanyanvv)
 
 ## Skills
 
 - [AI Watch](https://github.com/yanyanvv/ai-watch): Creates source-backed reports on material changes across the AI industry.
 - [Comms and Media Watch](https://github.com/yanyanvv/comms-media-watch): Creates source-backed reports on material changes across communications, media, and telecom.
-
-## Other links
-
-- [FutureTech with Yanyan](https://futuretechwithyanyan.com/)
-- [LinkedIn article: Let Your Imagination Fly with Nano Banana Pro](https://www.linkedin.com/pulse/let-your-imagination-fly-nano-banana-pro-yanyan-wang-hfzec/)
-- [GitHub](https://github.com/yanyanvv)
