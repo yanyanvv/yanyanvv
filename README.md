@@ -4,7 +4,8 @@ Yanyan helps businesses and people use AI more effectively. She also writes Futu
 
 ## Blogs
 
-- [Website](https://futuretechwithyanyan.com/)
+- [Personal site](https://yanyanvv.github.io/)
+- [FutureTech website](https://futuretechwithyanyan.com/)
 - [LinkedIn newsletter](https://www.linkedin.com/newsletters/futuretech-with-yanyan-6908907495293632512/)
 - [GitHub](https://github.com/yanyanvv)
 
